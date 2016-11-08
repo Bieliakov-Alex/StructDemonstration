@@ -1,4 +1,8 @@
-﻿#include <iostream>
+﻿/*
+Программа предназначена для демонстрации возможности структур в C++.
+09.11.16 Беляков Александр bieliakov.alex@gmail.com
+*/
+#include <iostream>
 #include <conio.h>
 #include <string.h>
 
